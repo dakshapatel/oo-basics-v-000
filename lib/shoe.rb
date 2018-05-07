@@ -14,14 +14,14 @@ puts "Your shoe is as good as new!"
 
 end
 
-end
+
 
 def condition=(new)
   @new = new
-end 
+end
 
 def new
   @new
-end 
+end
 
-
+end
