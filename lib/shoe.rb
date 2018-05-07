@@ -16,16 +16,9 @@ end
 
 
 
-def condition=(condition)
-  @condition = condition
-end
-
-def condition
-  @condition
-end
-
-def condition=(condition)
-  @condition = "new"
+def condition=(new)
+    
+  @new = "new"
 end
 
 def new
