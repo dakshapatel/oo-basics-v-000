@@ -16,8 +16,8 @@ end
 
 
 
-def condition=(new)
-  @new = new
+def condition=condition
+  @condition = "new"
 end
 
 def new
